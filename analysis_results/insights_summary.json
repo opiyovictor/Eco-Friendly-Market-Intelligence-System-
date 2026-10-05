@@ -1,0 +1,37 @@
+{
+  "pricing_insights": {
+    "most_expensive_category": "laundry",
+    "most_expensive_avg_price": 23.79,
+    "most_discounted_category": "bath",
+    "avg_discount_rate": 20.63732142857143
+  },
+  "competitor_insights": {
+    "top_performing_brands": [
+      "Attitude",
+      "EcoRoots",
+      "Bambo Nature"
+    ],
+    "avg_success_score_top3": 0.8033333333333333,
+    "market_leaders": [
+      "Package Free",
+      "EcoRoots",
+      "Seventh Generation"
+    ]
+  },
+  "opportunity_insights": {
+    "highest_opportunity_category": "laundry",
+    "opportunity_score": 0.878,
+    "market_saturation": 22.0
+  },
+  "consumer_insights": {
+    "most_valued_attributes": [
+      "sustainable",
+      "eco_friendly"
+    ],
+    "highest_premium": 8.210557533929824,
+    "top_attribute": "sustainable"
+  },
+  "strategic_recommendations": [
+    "Focus on laundry category where consumers accept higher prices ($23.79 avg)."
+  ]
+}
